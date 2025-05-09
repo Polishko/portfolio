@@ -6,6 +6,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  overflow-x: hidden;
 }
 
 .site {
@@ -55,4 +56,12 @@ body {
   background-blend-mode: normal, normal, normal, normal, normal, normal;
   filter: blur(50px);
 }
+
+@media (max-width: 600px) {
+  .site::after {
+    width: 200px;
+    height: 200px;
+  }
+}
+
 /* https://toolbox.signalsupply.co/apps/gradientblobcss */
