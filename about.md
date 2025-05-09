@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Niya! 👋 My friends also call me Nalan.
+Hi, I’m Niya! 👋
+My friends also call me Nalan.
 
-I am a Localization Professional with an academic background in Environmental Science and Engineering.
-I was inspired by a friend to begin my journey at SoftUni.
-Since then, it has been a dream come true, and I’ve been enjoying every moment of this incredible learning experience!
+✨ I'm a Localization Professional with an academic background in Environmental Science and Engineering.
+I was recently inspired to pursue a long-time dream of learning programming. It has since become a dream come true, and I’ve been enjoying every moment!
 
-I’m currently looking forward to completing SoftUni’s DevOps for Developers course and obtaining my specialization as a Full-Stack Developer.
+I’ve completed the Software Engineering – Python learning path at SoftUni.
+
+Currently, I’m deepening my Front-End skills, with a focus on JavaScript, React, and TypeScript.
+
+I’m passionate about building responsive web applications and writing clean, maintainable code.
+
+I enjoy understanding how things work under the hood — from programming fundamentals to real-world project structure.
 
 🧰 Languages and Tools:
 Python, JavaScript, HTML/CSS, PostgreSQL, React, Django, Git

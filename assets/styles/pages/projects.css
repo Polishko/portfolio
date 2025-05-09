@@ -12,6 +12,7 @@
 
 .all-projects {
   display: flex;
+  flex-wrap: wrap;
   gap: 3em;
 }
 
@@ -61,8 +62,8 @@
 }
 
 .image-container {
-  width: 400px;
-  height: 280px;
+  /* width: 400px;
+  height: 280px; */
   overflow: hidden;
   border-radius: 1em;
   margin-top: 1em;
